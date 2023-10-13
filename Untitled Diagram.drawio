@@ -1,6 +1,6 @@
-<mxfile modified="2023-10-13T07:19:48.796Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="lAdi7TT-t5aPcP07C2qk" version="22.0.4" type="github">
+<mxfile modified="2023-10-13T07:22:52.688Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="lXKMjIoL7IBceXyJkbBt" version="22.0.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1903" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1332" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
         <mxCell id="xaocwswp1ZTlnGI3L1wZ-6" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rekognition;fillColor=#2E73B8;gradientColor=none;" parent="xaocwswp1ZTlnGI3L1wZ-35" vertex="1">
           <mxGeometry x="63.5" y="140" width="76.5" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="ecUk88_qyXVUU-DI0iO--8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="xaocwswp1ZTlnGI3L1wZ-35" source="xaocwswp1ZTlnGI3L1wZ-37">
+        <mxCell id="ecUk88_qyXVUU-DI0iO--8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="xaocwswp1ZTlnGI3L1wZ-35" source="xaocwswp1ZTlnGI3L1wZ-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-80" y="300" as="targetPoint" />
           </mxGeometry>
@@ -105,7 +105,7 @@
         <mxCell id="xaocwswp1ZTlnGI3L1wZ-78" value="SCAN TO INVEST ARCHITECTURE DIAGRAM" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="400" y="720" width="450" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ecUk88_qyXVUU-DI0iO--7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.003;entryY=0.456;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xaocwswp1ZTlnGI3L1wZ-3" target="xaocwswp1ZTlnGI3L1wZ-41">
+        <mxCell id="ecUk88_qyXVUU-DI0iO--7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.003;entryY=0.456;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="xaocwswp1ZTlnGI3L1wZ-3" target="xaocwswp1ZTlnGI3L1wZ-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" y="290" />
